@@ -16,7 +16,7 @@ const socialLinks = [
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/Yogaa12',
+		url: 'https://github.com/Agoooy',
 	},
 	{
 		id: 3,
@@ -31,7 +31,7 @@ const socialLinks = [
 	{
 		id: 5,
 		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/Agooyt-',
+		url: 'https://www.youtube.com/c/Agooy-',
 	},
 ];
 
